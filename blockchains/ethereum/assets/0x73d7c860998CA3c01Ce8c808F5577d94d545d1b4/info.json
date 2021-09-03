@@ -28,6 +28,10 @@
       {
           "name": "medium",
           "url": "https://ixswap.medium.com/"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCaYPNR-eLs9iuB5ZVKRx-fw"
       }
   ]
 }
